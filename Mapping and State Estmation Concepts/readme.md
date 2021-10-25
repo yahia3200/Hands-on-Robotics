@@ -1,11 +1,12 @@
 # Mapping and State Estmation Concepts
 
-this folder contains explanation for a list of importatnt concepts for mapping, state estamation and SLAM with their code implementation
+This folder contains explanation for a list of importatnt concepts for mapping, state estamation and SLAM with their code implementation
 
 ## Done
 
-- Bayes Filter
+- [x] [Bayes Filter](google.com)
 
 ## In Progress
 
-- Kalman Filter and EKF
+- [ ] Kalman Filter and EKF
+- [ ] Particle Filter
